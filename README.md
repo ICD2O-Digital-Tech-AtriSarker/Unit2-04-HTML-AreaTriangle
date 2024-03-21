@@ -1,4 +1,4 @@
-# ICS2O Unit #X-YY
+# ICD2O Unit #2-04
 
 [![Mr Coxall's Super Linter](https://github.com/ICD2O-Digital-Tech-AtriSarker/Unit2-04-HTML-AreaTriangle/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICD2O-Digital-Tech-AtriSarker/Unit2-04-HTML-AreaTriangle/actions)
 
