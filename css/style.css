@@ -9,7 +9,7 @@ h1 {
 
 .formulaImg {
   width: clamp(200px, 50%, 480px);
-  border: solid 8px #1f0000;
+  border: solid 6px #1f0000;
 }
 
 input, button {
