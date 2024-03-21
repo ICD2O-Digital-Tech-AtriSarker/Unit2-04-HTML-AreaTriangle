@@ -1,4 +1,37 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+body {
+  background-color: #460c0c;
+  color: #ffffff;
+}
+
+h1 {
+  margin: 50px 0;
+}
+
+.formulaImg {
+  width: clamp(200px, 50%, 480px);
+  border: solid 8px #1f0000;
+}
+
+input, button {
+  background-color: #7f1a1a;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff2e2e;
+}
+
+h3 {
+  margin-top: 50px;
+}
+
+#AreaResult {
+  font-size: 36px;
+}
