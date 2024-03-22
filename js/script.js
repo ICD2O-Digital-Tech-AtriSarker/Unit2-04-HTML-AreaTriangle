@@ -32,5 +32,9 @@ function Calculate() {
 baseInput.oninput = Calculate
 heightInput.oninput = Calculate
 
+// Connect button click to the Calculate() function, 
+// redundant due to above code
+calculateBtn.onclick = Calculate
+
 // Initial Calculate() call
 Calculate()
